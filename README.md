@@ -18,6 +18,12 @@ The pages are created by the function in the `src/lib/page-maker.ts` file, which
 
 The final thing to change is the import statement in `src/app/page.tsx`. I have an example commented out in there. Import `{ pages }` from your story. Then it should display your book. It's that easy!
 
+## Illustrations
+
+Use whatever technology or lack thereof to create pictures for the book.
+
+Thanks to `samelliottdlt` for [pixel-art](https://github.com/samelliottdlt/pixel-art), which I used for my illustrations.
+
 ## Getting Started
 
 First time only:
