@@ -24,6 +24,20 @@ Use whatever technology or lack thereof to create pictures for the book.
 
 Thanks to `samelliottdlt` for [pixel-art](https://github.com/samelliottdlt/pixel-art), which I used for my illustrations.
 
+## Prerequisites
+
+You will need to install [`git`](https://git-scm.com/install/) and [`node.js`](https://nodejs.org/en), if you don't have them already. Then open Git Bash or your favorite command line tool to clone the repo.
+
+```
+git clone https://github.com/ig-ealbert/childrens-book-template
+```
+
+Move to that folder.
+
+```
+cd childrens-book-template
+```
+
 ## Getting Started
 
 First time only:
