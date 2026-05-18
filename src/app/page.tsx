@@ -5,6 +5,7 @@ import React from "react";
 import { pages } from "../stories/bobos-big-adventure/pages";
 // For example
 // import { pages } from "../stories/bobo-learns-to-share/pages";
+// import { pages } from "../stories/bobo-and-the-new-girl/pages";
 
 export default function Home() {
   const [pageNumber, updatePageNumber] = React.useState(0);
